@@ -1,4 +1,5 @@
-Parrity v1.0.0
+Parrity
+v1.0.0
 
 Copyright © 2018 Eric Reedy.  All rights reserved.
 

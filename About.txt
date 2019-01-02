@@ -5,8 +5,9 @@ Copyright © 2018 Eric Reedy.  All rights reserved.
 
 Parrity is a web browser I built to hold myself over until WatchOS Safari's innevitable debut.  But, since that still hasn't happened, a public release just seemed like the right thing to do.
 
-The name of the app is a combination of "Parity" and "Parrot".  Like most Apple Watch apps, it's highly reliant upon it's pairing with a companion device, and, like a Parrot, the Watch app functions by mirroring, less-than-pefectly (try as I may to make up for that), the behavior of the other.  Hence the name, and the mascot.
+The name of the app is a combination of "Parity" and "Parrot".  Like most Apple Watch apps, it's highly reliant upon it's pairing with a companion device, and, like a Parrot, the Watch app functions by mirroring, less-than-pefectly, the behavior of the other.  Hence the name, and the mascot.
 
-Please be aware that in Apple Watch development there are many seemingly-extreme limitations that simply cannot be worked around.  And although I'm the first to admit the app isn't perfect, I assure you all I've toiled and struggled so very much to get it as good as it is right now, and hopefully that shows.
+Please be aware that in Apple Watch development there are many seemingly-extreme limitations that simply cannot be worked around.  And although I'm the first to admit the app isn't perfect, I assure you I've toiled and struggled so very much to get it as good as it is right now, and hopefully that shows.
 
-Finally, most important of all:  Thank you for using my App.
+Finally, most important of all:
+Thank you so much for using my App.

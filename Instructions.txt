@@ -119,4 +119,4 @@ Watch App isn’t installing
 - In all other cases, uninstall, reboot both devices, and reinstall.
 
 Watch App thinks it’s connected.  Phone does not.
-- Restart the Watch.
+- Restart the Watch~

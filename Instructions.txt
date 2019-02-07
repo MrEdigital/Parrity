@@ -1,1 +1,122 @@
-Instructions
+GETTING STARTED
+
+1 - Ensure Parrity is installed on both your Watch and your Phone.
+2 - Launch the iOS App and accept the EULA.
+3 - Launch the Watch App and start browsing.
+
+HOW TO CHECK CONNECTIVITY
+
+1 - Launch the Parrity iOS App.
+2 - At the top, ensure you see a green dot to the left and right of the Parrity logo.
+3 - If either appear as a red “x”, tap on them for more information.
+
+HOW TO BROWSE ON YOUR WATCH
+
+Visiting a Website
+1 - Tap the globe icon at the top of the screen.
+2 - Tap the Text Field, and use Siri or Handwriting to enter a URL.
+3 - Tap the green “GO” button.
+4 - The page should then begin to load.
+note 1 - Use the helper buttons to assemble common URL components.
+note 2 - Tap Undo/Redo to toggle between actions.
+note 3 - Swipe left to delete 1 character at a time.
+
+Signing into a Website
+1 - Visit the Website on the Parrity iOS App.
+2 - Sign In.
+3 - Visit the same site on the Watch App (or “Send to Watch”).
+4 - The Watch Site should be signed in.
+
+History
+1 - Tap the globe icon at the top of the screen.
+2 - Tap the orange hour glass icon.
+3 - From here, you can either clear history, or select a prior site, which will then begin to load.
+
+Searching
+1 - Tap the magnifying glass at the top of the screen.
+2 - Tap the Text Field, and use Siri or Handwriting to enter search text.
+3 - Tap the green button.
+4 - The search page should then begin to load.
+note 1 - Toggle between Search Engines by tapping the + or the - buttons.
+note 2 - Tap Undo/Redo to toggle between actions.
+note 3 - Swipe left to delete 1 character at a time.
+
+Browsing
+1 - Swipe up and down to scroll.
+2 - Tap the down / up buttons, to jump to and from the top and bottom of the screen.
+3 - Tap the left / right buttons at the bottom of the screen to toggle between sub-pages.
+4 - Tap the page to initiate a “Tap” action.
+note - You can also swipe left / right to activate the left / right buttons.
+
+Stopping a Load
+1 - Tap the red X at the top of the screen.
+
+Refreshing a Page
+1 - Stop the current load, if needed.
+2 - Tap the circular arrow icon at the top of the screen.
+3 - Reload via the Reload Button.
+4 - Or Resnap via the Resnap Button.
+
+Closing a Page
+1 - View the page you would like to close.
+2 - Deep-press screen.
+3 - Tap “Close Page”.
+
+Closing All Pages
+1 - Deep-press the main screen.
+2 - Tap “Close all Pages”.
+
+Viewing Page Info - Option #1
+1 - View the page whose info you would like to view.
+2 - Deep-press screen.
+3 - Tap “Page Info”.
+
+Viewing Page Info - Option #2
+1 - View the page whose info you would like to view.
+2 - Tap the circular arrow at the top of the screen.
+3 - Tap the “i” button.
+
+HOW TO BROWSE ON YOUR PHONE
+
+Visiting a Website
+1 - Enter a URL into the text field at the bottom and tap “Go” on the keyboard.
+
+Sending a Website to the Watch
+1 - Visit a site on the Phone.
+2 - Ensure the Watch is connected.
+3 - Tap the Watch icon in the lower right.
+4 - Accept the Redirect on the Watch.
+
+FURTHER READING
+
+Cached Pages
+- Every page you visit will persist within onboard storage until the page is closed.
+- You may visit cached pages even without a connection to your phone.
+- Cached pages are indicated by an orange refresh icon, and within their Page Info.
+- In order to interact with a Cached Page, you must first make it “active” initiating a Reload.
+
+Resnapping
+- Snapshots the entire page, slices it, and begins the Phone-to-Watch streaming process.
+- Useful if you believe the page has changed size, or content, or layout, post-load.
+
+Reloading
+- Discards all page data, loads again from scratch, and also performs the Resnap operation.
+- Particularly useful if a page or network is being difficult, or you believe it to be stale.
+
+Limitations
+At this time, primary limitations include:
+1 - Certain types of interactive page objects - particularly those utilizing javascript bindings.
+2 - Pages which utilize lazy loading / layout methods which depend on (something) WebViews don’t provide while the device is locked.  eg:  twitter..  :(
+3 - Actively browsing without a connected internet-enabled phone or tablet.
+
+Supporting the Developer
+¯\_(ツ)_/¯
+
+TROUBLESHOOTING
+
+Watch App isn’t installing
+- It’s been observed that while installing iOS Apps via the Apple Watch App, ironically, the companion Watch App may not install.  If this is the case, delete the App and install again from the official App Store.
+- In all other cases, uninstall, reboot both devices, and reinstall.
+
+Watch App thinks it’s connected.  Phone does not.
+- Restart the Watch.
